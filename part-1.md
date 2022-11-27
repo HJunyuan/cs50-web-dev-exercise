@@ -1,5 +1,7 @@
 # 📝 Part 1: HTML
 
+![Screenshot of completed HTML](/screenshots/html-sample.png)
+
 Get started by creating your first web page using HTML (Hypertext Markup Language).
 
 **Link to exercise**: <a href="https://codepen.io/hjunyuan/pen/OJEEQQx" target="_blank">https://codepen.io/hjunyuan/pen/OJEEQQx</a>

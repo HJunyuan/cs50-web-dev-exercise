@@ -1,5 +1,7 @@
 # ✨ Part 2: CSS
 
+![Screenshot of completed CSS](/screenshots/completed-sample.png)
+
 Subsequently, we will start styling our web page using CSS (Cascading Style Sheets).
 
 **Link to exercise**: <a href="https://codepen.io/hjunyuan/pen/QWxxQgm" target="_blank">https://codepen.io/hjunyuan/pen/QWxxQgm</a>

@@ -1,5 +1,7 @@
 # CS50 for Lawyers - Web Development
 
+![Screenshot of completed exercise](/screenshots/completed-sample.png)
+
 An interactive HTML + CSS + JS exercise for beginners.
 
 ## 📝 Part 1: HTML
