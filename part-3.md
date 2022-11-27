@@ -2,7 +2,7 @@
 
 Make the web page interactive with JS (JavaScript) - not to be confused with Java.
 
-**Link to exercise**: <a href="https://codepen.io/hjunyuan/pen/bGKKLWY" target="_blank">https://codepen.io/hjunyuan/pen/bGKKLWY</a>
+**Link to exercise**: <https://codepen.io/hjunyuan/pen/bGKKLWY>
 
 ## Step 1
 

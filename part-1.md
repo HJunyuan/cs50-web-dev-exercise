@@ -4,7 +4,7 @@
 
 Get started by creating your first web page using HTML (Hypertext Markup Language).
 
-**Link to exercise**: <a href="https://codepen.io/hjunyuan/pen/OJEEQQx" target="_blank">https://codepen.io/hjunyuan/pen/OJEEQQx</a>
+**Link to exercise**: <https://codepen.io/hjunyuan/pen/OJEEQQx>
 
 ## Step 1
 
@@ -42,4 +42,4 @@ b.Add `li` (list item) inside `ul`
 </ul>
 ```
 
-For further reading on all other HTML elements: <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element" target="_blank">https://developer.mozilla.org/en-US/docs/Web/HTML/Element</a>
+For further reading on all other HTML elements: <https://developer.mozilla.org/en-US/docs/Web/HTML/Element>

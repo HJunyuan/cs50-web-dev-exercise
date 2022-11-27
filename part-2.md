@@ -4,7 +4,7 @@
 
 Subsequently, we will start styling our web page using CSS (Cascading Style Sheets).
 
-**Link to exercise**: <a href="https://codepen.io/hjunyuan/pen/QWxxQgm" target="_blank">https://codepen.io/hjunyuan/pen/QWxxQgm</a>
+**Link to exercise**: <https://codepen.io/hjunyuan/pen/QWxxQgm>
 
 ## Step 1
 
@@ -66,4 +66,4 @@ Set `li` styles:
 | `list-style`       | `none`      |
 | `background-color` | `#341d27`   |
 
-For further reading on all CSS properties: <a href="https://www.w3schools.com/cssref/index.php" target="_blank">https://www.w3schools.com/cssref/index.php</a>
+For further reading on all CSS properties: <https://www.w3schools.com/cssref/index.php>
