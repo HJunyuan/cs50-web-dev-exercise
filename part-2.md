@@ -1,6 +1,6 @@
 # ✨ Part 2: CSS
 
-![Screenshot of completed CSS](/screenshots/completed-sample.png)
+![Screenshot of completed CSS](/screenshots/css-sample.png)
 
 Subsequently, we will start styling our web page using CSS (Cascading Style Sheets).
 

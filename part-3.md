@@ -1,5 +1,7 @@
 # ⚙️ Part 3: JS
 
+![Screenshot of completed JS](/screenshots/completed-sample.png)
+
 Make the web page interactive with JS (JavaScript) - not to be confused with Java.
 
 **Link to exercise**: <https://codepen.io/hjunyuan/pen/bGKKLWY>
